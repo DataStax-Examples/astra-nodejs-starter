@@ -1,0 +1,6 @@
+tasks:
+  - name: nodejs
+    before: |
+      npm install
+    command: |
+      gp open README.md

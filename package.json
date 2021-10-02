@@ -1,0 +1,25 @@
+{
+  "name": "astra-nodejs-starter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataStax-Examples/astra-nodejs-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DataStax-Examples/astra-nodejs-starter/issues"
+  },
+  "homepage": "https://github.com/DataStax-Examples/astra-nodejs-starter#readme",
+  "dependencies": {
+    "@astrajs/client": "^0.2.1",
+    "cassandra-driver": "^4.6.3",
+    "dotenv": "^10.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Astra + NodeJS Starter",
+  "description": "Bootstrap your next NodeJS app with an Astra integration.",
+  "duration": "10 minutes",
+  "skillLevel": "Beginner",
+  "githubUrl": "https://github.com/DataStax-Examples/astra-nodejs-starter",
+  "heroImage": "https://raw.githubusercontent.com/DataStax-Examples/astra-nodejs-starter/master/hero.jpeg",
+  "gitpodUrl": "https://gitpod.io/#https://github.com/DataStax-Examples/astra-nodejs-starter",
+  "tags": [{ "name": "javascript" }, { "name": "nodejs" }],
+  "category": "starters",
+  "priority": 1
+}
