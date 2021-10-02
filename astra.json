@@ -4,7 +4,7 @@
   "duration": "10 minutes",
   "skillLevel": "Beginner",
   "githubUrl": "https://github.com/DataStax-Examples/astra-nodejs-starter",
-  "heroImage": "https://raw.githubusercontent.com/DataStax-Examples/astra-nodejs-starter/master/hero.jpeg",
+  "heroImage": "https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-sample-app-default.png",
   "gitpodUrl": "https://gitpod.io/#https://github.com/DataStax-Examples/astra-nodejs-starter",
   "tags": [{ "name": "javascript" }, { "name": "nodejs" }],
   "category": "starters",
