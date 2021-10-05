@@ -9,7 +9,7 @@ Bootstrap your next NodeJS app with an Astra integration.
 
 ## Quick Start
 <!--- STARTEXCLUDE --->
-* [Signup for DataStax Astra](https://astra.datastax.com), or login to your already existing account. 
+* [Signup for DataStax Astra](https://dtsx.io/2YmhZJ6), or login to your already existing account. 
 * [Create an Astra DB Database](https://github.com/DataStax-Examples/sample-app-template/blob/master/GETTING_STARTED.md#create-an-astra-db) if you don't already have one.
 <!--- ENDEXCLUDE --->
 * [Create an Astra DB Keyspace](https://github.com/DataStax-Examples/sample-app-template/blob/master/GETTING_STARTED.md#create-an-astra-db-keyspace) called `sag_nuxtjs_fullstack` in your database.
